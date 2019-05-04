@@ -1,6 +1,6 @@
 # Welcome to Sonic Pi v2.10
 # Lighthouses II
-# lighthouses2.pi
+# lighthouses.rb
 # Dawn Erb
 # August 27, 2016
 
